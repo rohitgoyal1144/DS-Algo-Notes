@@ -7,3 +7,4 @@ This is an Repo made for collecting codes of all types of Data Structures and Al
 4. Segment Tree supporting Range minimum query
 
 Add more if you know more.
+
